@@ -1,0 +1,5 @@
+# Dependências externas do bot de monitoramento de ingressos
+# Todas as outras bibliotecas usadas (time, random, traceback, socket,
+# re, hashlib, datetime, collections) são nativas do Python.
+
+requests==2.31.0
